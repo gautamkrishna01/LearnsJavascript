@@ -4,7 +4,7 @@ function nameOfFunction(name) {
 nameOfFunction();
 nameOfFunction();
 
-Function expression
+// Function expression
 
 let fun = function () {
   console.log('this is  function expression');
